@@ -47,7 +47,7 @@ An iframe based integration example follows:
 
 ## Common issues and testing
 
-You can test if the IFrame integration works properly with the https://iframetester.com/ tool.
+You can test if the IFrame integration works properly with a tool like [https://iframetester.com/](https://iframetest.com/).
 
 In case of errors showing a Chart in your website, please check your CSP policy for IFrame content https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
 
