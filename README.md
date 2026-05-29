@@ -155,3 +155,4 @@ We add support for new blockchains frequently. This is the current list of avail
 | POLYGON-ZKEVM | polygonzkevm |
 | UNIT ZERO | units |
 | NIBIRU | nibiruevm |
+| ANUBIS | anubis |
