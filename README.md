@@ -156,3 +156,4 @@ We add support for new blockchains frequently. This is the current list of avail
 | UNIT ZERO | units |
 | NIBIRU | nibiruevm |
 | ANUBIS | anubis |
+| TERRA | terra |
