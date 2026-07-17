@@ -3,7 +3,7 @@
 (This is the public documentation repo of the DEXTools Chart Widget)
 
 The **Chart Widget** allows websites to display an embedded trading chart for any pool supported by [DEXTools.io](https://www.dextools.io) app. Chart data is 
-(https://demo.webfuse.com/)
+(https://demo.webfuse.com/) (https://t.me/DEXToolsCommunity/)
 updated in real-time, including the current price in USD and trade history.
 
 https://www.dextools.io/widget-chart/en/ether/pe-light/0xa29fe6ef9592b5d408cca961d0fb9b1faf497d6d?theme=dark
