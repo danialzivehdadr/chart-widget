@@ -24,7 +24,6 @@ Chart display is provided by [TradingView](https://www.tradingview.com/)
 ## Quick Example
 
 An iframe based integration example follows:
-
 ```html
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
